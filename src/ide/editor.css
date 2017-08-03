@@ -1,0 +1,11 @@
+.text-area{
+    -fx-highlight-fill: #47c1ff;
+}
+
+.menu-bar{
+    -fx-background-color: #47c1ff;
+}
+
+.tool-bar{
+    -fx-background-color: #47c1ff;
+}
